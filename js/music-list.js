@@ -4,7 +4,7 @@ let allMusic =[
 
         name: "Taylor Swift-Love Story",
         artist: "Taylor Swift",
-        img: "img10",
+        img: "img1",
         src: "music1"
     },
     {
@@ -52,7 +52,7 @@ let allMusic =[
    { name: "Taylor Swift-Willow",
    artist: "Taylor Swift",
    img: "img9",
-   src: "music8"
+   src: "music9"
 },
 {  name: "Shawn Mendas -Senorita",
 artist: "Shawn Mendas x Camila Cabello",
