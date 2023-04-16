@@ -56,7 +56,7 @@ let allMusic =[
 },
 {  name: "Shawn Mendas -Senorita",
 artist: "Shawn Mendas x Camila Cabello",
-img: "img1",
+img: "img10",
 src: "music10"
 }  
 ]
